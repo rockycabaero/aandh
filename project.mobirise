@@ -882,7 +882,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x13334.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "showTitle": true,
